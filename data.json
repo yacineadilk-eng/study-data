@@ -1,19 +1,19 @@
 {
   "challenges": {
     "demo1": {
-      "name": "Challenge Démo",
-      "creator": "System",
-      "participants": ["System"],
+      "name": "Challenge Démo GitHub",
+      "creator": "yacineadilk-eng",
+      "participants": ["yacineadilk-eng"],
       "active": true,
-      "createdAt": 1699027200000
+      "createdAt": 1730678400000
     }
   },
   "users": {
-    "System": {
-      "name": "System",
-      "totalTime": 3600000,
-      "online": false,
-      "lastSeen": 1699027200000
+    "yacineadilk-eng": {
+      "name": "yacineadilk-eng",
+      "totalTime": 0,
+      "online": true,
+      "lastSeen": 1730678400000
     }
   }
 }
