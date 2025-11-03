@@ -1,0 +1,19 @@
+{
+  "challenges": {
+    "demo1": {
+      "name": "Challenge Démo",
+      "creator": "System",
+      "participants": ["System"],
+      "active": true,
+      "createdAt": 1699027200000
+    }
+  },
+  "users": {
+    "System": {
+      "name": "System",
+      "totalTime": 3600000,
+      "online": false,
+      "lastSeen": 1699027200000
+    }
+  }
+}
